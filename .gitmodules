@@ -1,0 +1,36 @@
+[submodule "glslang/glslang"]
+	path = glslang/glslang
+	url = https://github.com/KhronosGroup/glslang.git
+[submodule "stb/stb"]
+	path = stb/stb
+	url = https://github.com/nothings/stb.git
+[submodule "tinygltf/tinygltf"]
+	path = tinygltf/tinygltf
+	url = https://github.com/syoyo/tinygltf
+[submodule "googletest/googletest"]
+	path = googletest/googletest
+	url = https://github.com/google/googletest.git
+[submodule "DirectXShaderCompiler/DirectXShaderCompiler"]
+	path = DirectXShaderCompiler/DirectXShaderCompiler
+	url = https://github.com/microsoft/DirectXShaderCompiler.git
+[submodule "wxWidgets/wxWidgets"]
+	path = wxWidgets/wxWidgets
+	url = https://github.com/wxWidgets/wxWidgets
+[submodule "xxHash/xxHash"]
+	path = xxHash/xxHash
+	url = https://github.com/Cyan4973/xxHash.git
+[submodule "zlib/zlib"]
+	path = zlib/zlib
+	url = https://github.com/madler/zlib
+[submodule "imgui/imgui"]
+	path = imgui/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "SPIRV-Reflect/SPIRV-Reflect"]
+	path = SPIRV-Reflect/SPIRV-Reflect
+	url = https://github.com/KhronosGroup/SPIRV-Reflect.git
+[submodule "meshoptimizer/meshoptimizer"]
+	path = meshoptimizer/meshoptimizer
+	url = https://github.com/zeux/meshoptimizer
+[submodule "compressonator/compressonator"]
+	path = compressonator/compressonator
+	url = https://github.com/GPUOpen-Tools/compressonator.git
