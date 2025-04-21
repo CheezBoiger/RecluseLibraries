@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 	<build>
-		<type>Debug</type>
+		<type>Release</type>
+		<install>
+			<prefix path="${RECLUSE_INSTALL_PREFIX}" />
+		</install>
 	</build>
-	<install>
-		<prefix path="${RECLUSE_INSTALL_PREFIX}" />
-	</install>
+	<build>
+		<type>Debug</type>
+		<install>
+			<prefix path="${RECLUSE_INSTALL_PREFIX}" />
+		</install>
+	</build>
 </project>

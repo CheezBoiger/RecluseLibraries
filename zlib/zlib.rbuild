@@ -2,8 +2,8 @@
 <project>
 	<build>
 		<type>Release</type>
+		<install>
+			<prefix path="${RECLUSE_INSTALL_PREFIX}" />
+		</install>
 	</build>
-	<install>
-		<prefix path="${RECLUSE_INSTALL_PREFIX}" />
-	</install>
 </project>

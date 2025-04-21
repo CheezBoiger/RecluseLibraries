@@ -34,3 +34,6 @@
 [submodule "compressonator/compressonator"]
 	path = compressonator/compressonator
 	url = https://github.com/GPUOpen-Tools/compressonator.git
+[submodule "opencv/opencv"]
+	path = opencv/opencv
+	url = https://github.com/opencv/opencv.git
