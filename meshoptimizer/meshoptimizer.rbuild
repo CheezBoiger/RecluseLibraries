@@ -8,6 +8,7 @@
 	</build>
 	<build>
 		<type>Debug</type>
+		<target name="meshoptimizerd" />
 		<install>
 			<prefix path="${RECLUSE_INSTALL_PREFIX}" />
 		</install>
