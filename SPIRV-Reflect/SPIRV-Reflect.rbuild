@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<project>
+<project version="SPIRV-Reflect">
 	<param var="SPIRV_REFLECT_STATIC_LIB" value="ON"/>
 	<param var="SPIRV_REFLECT_EXECUTABLE" value="OFF"/>
 	<build>

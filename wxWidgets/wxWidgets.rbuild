@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<project>
+<project version="wxWidgets">
 	<param var="HAVE_MULTI_CONFIG_GENERATOR" value="ON" />
 	<build>
 		<type>Release</type>
