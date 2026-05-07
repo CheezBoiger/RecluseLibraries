@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<project name="DirectXShaderCompiler" version="dxc_2025_05_04">
+<project name="DirectXShaderCompiler" version="dxc_2025_05_24">
 	<param var="ENABLE_SPIRV_CODEGEN" value="ON"/>
 	<cache path="${RECLUSE_THIRDPARTY_DIRECTORY}/cmake/caches/PredefinedParams.cmake"/>
 	<build>
